@@ -1,5 +1,7 @@
 ## Welcome to OpenResty.io
 
+[![Join the chat at https://gitter.im/openresty-io/openresty-io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openresty-io/openresty-io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * This Domain is for sale!! Welcome to contact me!!
 * 这个域名在公开出售中, 欢迎联系!!
 
