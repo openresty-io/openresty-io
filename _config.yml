@@ -1,0 +1,8 @@
+title: OpenResty-IO
+description: 
+google_analytics: UA-46663685-6
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
